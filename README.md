@@ -77,8 +77,10 @@ With just a YouTube link, this notebook:
 ---
 
 ## 🔗 Connect
+ 
+👤 **Shyam Hari**  
+- [LinkedIn](https://www.linkedin.com/in/shyam-hari-5389492b3/)  
+- [GitHub](https://github.com/shyamhari1074)  
 
-**👤 Shyam Hari**  
-[LinkedIn](#shyam-hari-5389492b3) | [GitHub](#shyamhari1074)
 
 ✨ Learning in public. Suggestions & contributions are always welcome!
