@@ -1,4 +1,4 @@
-# 🎥 YouTube Transcript Chatbot
+# 🎥 PADIK AI
 
 Ever wished you could **chat with a YouTube video** instead of scrolling through it for answers?  
 This project makes that possible! 🚀
